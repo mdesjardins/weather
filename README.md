@@ -1,3 +1,7 @@
+**This is my very first foray into "vibe coding." Don't judge.**
+
+------- 
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
